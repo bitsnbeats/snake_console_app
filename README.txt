@@ -3,7 +3,7 @@ This game runs and displays the classic game Snake on the command-line.
 I wrote this game in my journey to learn C++. Most of the code is original, but I took
 the concepts for how to build snake from javidx9 and I copied few lines of code 
 (also from javidx9) that created a handle to the console and managed input timing.
-Javidx9 has a fantastic Youtube channel where he teaches various console c++ projects.
+Javidx9 has a fantastic Youtube channel where he teaches various console C++ projects.
 You can check him out with this link:https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA
 
 If you are interested in just playing Snake and not the code behind it, please download
